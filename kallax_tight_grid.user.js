@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2025-09-13
 // @description  Keep image + badges, remove the metadata card, and overlay the title on the image.
-// @author       JeyLists
+// @author       jenlisabeth
 // @match        https://kallax.io/*
 // @match        https://www.kallax.io/*
 // @match        http://kallax.io/*
