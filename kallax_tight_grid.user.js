@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Kallax.io — Image Title Overlay (remove card)
+// @name         Kallax.io — Tight Image Grid
 // @namespace    http://tampermonkey.net/
 // @version      2025-09-13
 // @description  Keep image + badges, remove the metadata card, and overlay the title on the image.
